@@ -17,6 +17,12 @@ const productsArray = [
 {name: 'Рюкзак', code: 'P001', images: [{url: '../bagllet/images/product1.png', color: '#50649D'}, {url: '../bagllet/images/product3.png', color: '#55210B'}, {url: '../bagllet/images/product2.png', color: '#EA7927'}], oldPrice: 2649, newPrice: 1949, selectedImages: 0},
 {name: 'Рюкзак', code: 'P016', images: [{url: '../bagllet/images/product1.png', color: '#50649D'}, {url: '../bagllet/images/product3.png', color: '#55210B'}, {url: '../bagllet/images/product2.png', color: '#EA7927'}], oldPrice: '', newPrice: 2649,selectedImages: 1},
 {name: 'Рюкзак', code: 'P030', images: [{url: '../bagllet/images/product1.png', color: '#50649D'}, {url: '../bagllet/images/product3.png', color: '#55210B'}, {url: '../bagllet/images/product2.png', color: '#EA7927'}], oldPrice: 211, newPrice: 2649,selectedImages: 2},
+{name: 'Рюкзак', code: 'P001', images: [{url: '../bagllet/images/product1.png', color: '#50649D'}, {url: '../bagllet/images/product3.png', color: '#55210B'}, {url: '../bagllet/images/product2.png', color: '#EA7927'}], oldPrice: 2649, newPrice: 1949, selectedImages: 0},
+{name: 'Рюкзак', code: 'P016', images: [{url: '../bagllet/images/product1.png', color: '#50649D'}, {url: '../bagllet/images/product3.png', color: '#55210B'}, {url: '../bagllet/images/product2.png', color: '#EA7927'}], oldPrice: '', newPrice: 2649,selectedImages: 1},
+{name: 'Рюкзак', code: 'P030', images: [{url: '../bagllet/images/product1.png', color: '#50649D'}, {url: '../bagllet/images/product3.png', color: '#55210B'}, {url: '../bagllet/images/product2.png', color: '#EA7927'}], oldPrice: 211, newPrice: 2649,selectedImages: 2},
+{name: 'Рюкзак', code: 'P001', images: [{url: '../bagllet/images/product1.png', color: '#50649D'}, {url: '../bagllet/images/product3.png', color: '#55210B'}, {url: '../bagllet/images/product2.png', color: '#EA7927'}], oldPrice: 2649, newPrice: 1949, selectedImages: 0},
+{name: 'Рюкзак', code: 'P016', images: [{url: '../bagllet/images/product1.png', color: '#50649D'}, {url: '../bagllet/images/product3.png', color: '#55210B'}, {url: '../bagllet/images/product2.png', color: '#EA7927'}], oldPrice: '', newPrice: 2649,selectedImages: 1},
+{name: 'Рюкзак', code: 'P030', images: [{url: '../bagllet/images/product1.png', color: '#50649D'}, {url: '../bagllet/images/product3.png', color: '#55210B'}, {url: '../bagllet/images/product2.png', color: '#EA7927'}], oldPrice: 211, newPrice: 2649,selectedImages: 2},
 ];
  
 const productsArrayCopy = productsArray.slice();
